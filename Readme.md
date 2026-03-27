@@ -1,67 +1,68 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Building%20the%20Agentic%20Future&fontSize=45&fontColor=f97316&animation=twinkling" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a0a00,70:c43b00,100:ff6b1a&height=180&section=header&text=Siddhant%20Rathi&fontSize=52&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
+  <br/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=FF8C42&center=true&vCenter=true&width=520&lines=Agentic+AI+Engineer+%E2%80%A2+Full+Stack+Developer;Building+end-to-end+AI+systems;Graph+Memory+%E2%80%A2+LLMs+%E2%80%A2+Agentic+Pipelines)](https://git.io/typing-svg)
-
+  <h3> ⚡ Agentic AI Engineer | Full Stack Architect </h3>
+  
+ 
 </div>
 
 ---
 
-<br/>
+### Currently Engineering
 
-```yaml
-name      : Siddhant Rathi
-role      : Agentic AI Engineer & Full Stack Developer
-education : B.E. AI & Data Science
-focus     : Agentic Systems · LLM Pipelines · Full Stack Applications
-```
-
-<br/>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>ActionNote</h4>
+      <p>AI-powered task management & automation platform using <b>Python (FastAPI)</b> and <b>LangChain</b> agents to execute workflows based on natural language.</p>  
+    </td>
+    <td width="50%" valign="top">
+      <h4>ResuMail</h4>
+      <p>Intelligent system that extracts resume data to generate highly personalized application emails, optimizing the job-hunt pipeline.</p>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nextjs,react,ts,postgres,mongodb,redis,docker,aws,github,tailwind&perline=6&theme=dark" />
+</div>
 
 <br/>
 
 <div align="center">
-
-**Stack**
-
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,nextjs,react,docker,mongodb,postgres,redis&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-<img src="https://img.shields.io/badge/LangGraph-c43b00?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1a0a00?style=flat-square&logo=langchain&logoColor=FF8C42"/>
-<img src="https://img.shields.io/badge/Neo4j-e85d04?style=flat-square&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-ff6b1a?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-d35400?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-7a1e00?style=flat-square&logo=openai&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LangGraph-24292e?style=for-the-badge&logo=python&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/LangChain-24292e?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-24292e?style=for-the-badge&logo=neo4j&logoColor=008CC1" />
+  <img src="https://img.shields.io/badge/Groq-24292e?style=for-the-badge&logo=lightning&logoColor=yellow" />
 </div>
 
-<br/>
+---
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sid20rathi&theme=transparent&hide_border=true&show_icons=true&title_color=f97316&icon_color=f97316&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid20rathi&theme=transparent&hide_border=true&stroke=f97316&ring=f97316&fire=f97316&currStreakLabel=f97316&background=0d1117&sideNums=ffffff&sideLabels=ffffff" width="48%" />
+</div>
 
 ---
+
+
+
+<div align="center">
+  <a href="https://siddhant.online/"><img src="https://img.shields.io/badge/Web-18181b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/siddhantrathi20/"><img src="https://img.shields.io/badge/In-18181b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://x.com/Sid20rathi"><img src="https://img.shields.io/badge/X-18181b?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:siddhant02rathi@gmail.com"><img src="https://img.shields.io/badge/Mail-18181b?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</div>
 
 <br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-c43b00?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantrathi20/)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-1a0a00?style=flat-square&logo=x&logoColor=FF8C42)](https://x.com/Sid20rathi)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-e85d04?style=flat-square&logo=vercel&logoColor=white)](https://siddhant.online/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-ff6b1a?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhant02rathi@gmail.com)
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sid20rathi&color=c43b00&style=flat-square&label=Profile+Views)
-
+  <img src="https://komarev.com/ghpvc/?username=Sid20rathi&color=f97316&style=flat-square&label=TRAFFIC_LOGGED" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b1a,30:c43b00,70:1a0a00,100:0a0a0a&height=120&section=footer" width="100%" />
